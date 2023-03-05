@@ -36,9 +36,7 @@ a {
 	margin: 20px;
 }
 
-.list-container::-webkit-scrollbar {
-
-    display: none;
+.list-container {
 
   height: 800px; /* adjust the height to your needs */
 
@@ -50,7 +48,7 @@ a {
 	
 }
 
-.list::-webkit-scrollbar {
+.list::-webkit-scrollbar
 
     display: none; {
 	bborder: 4px dashed var(--primaryForeground);
