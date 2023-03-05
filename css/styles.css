@@ -36,6 +36,14 @@ a {
 	margin: 20px;
 }
 
+.list-container {
+
+  height: 200px; /* adjust the height to your needs */
+
+  overflow: auto;
+
+}
+
 .list {
 	bborder: 4px dashed var(--primaryForeground);
 }
