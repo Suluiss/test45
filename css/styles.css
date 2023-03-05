@@ -36,7 +36,9 @@ a {
 	margin: 20px;
 }
 
-.list-container {
+.list-container::-webkit-scrollbar {
+
+    display: none;
 
   height: 800px; /* adjust the height to your needs */
 
