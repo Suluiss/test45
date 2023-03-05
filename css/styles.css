@@ -48,7 +48,9 @@ a {
 	
 }
 
-.list {
+.list::-webkit-scrollbar {
+
+    display: none; {
 	bborder: 4px dashed var(--primaryForeground);
 }
 
